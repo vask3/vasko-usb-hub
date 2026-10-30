@@ -5,6 +5,7 @@ Hey everyone! This is my project for a mini **3-port USB 2.0 hub** that I design
 At first, I was planning to add only 2 ports, but since the chip supports up to 4, I figured why not throw in an extra one. The schematic is kept super clean using Net Labels so there isn't a messy web of wires everywhere.
 
 ---
+<img width="225" height="290" alt="image" src="https://github.com/user-attachments/assets/0dbaee46-a694-4f43-a97f-bec72f7c17dc" />
 
 ## 🛠️ Components Used
 
