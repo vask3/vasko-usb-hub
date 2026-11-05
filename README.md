@@ -6,6 +6,8 @@ At first, I was planning to add only 2 ports, but since the chip supports up to 
 
 ---
 <img width="225" height="290" alt="image" src="https://github.com/user-attachments/assets/0dbaee46-a694-4f43-a97f-bec72f7c17dc" />
+<img width="225" height="229" alt="copyImage" src="https://github.com/user-attachments/assets/2a1a8889-a881-40f1-9b04-36a561d7d551" />
+
 
 ## 🛠️ Components Used
 
